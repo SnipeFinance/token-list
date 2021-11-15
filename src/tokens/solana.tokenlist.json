@@ -25072,4 +25072,21 @@
     "minor": 3,
     "patch": 2
   }
-}
+},
+    {
+      "chainId": 101,
+      "address": "6TrhkzBAokyonkodNY3hsxqMhf1kaj6Zjk7QKc3E6QZc",
+      "symbol": "Trush",
+      "name": "TRS",
+      "decimals": 9,
+      "logoURI": "https://github.com/SnipeFinance/Solana-tokens/blob/main/Trushlogo.png",
+      "tags": [
+        "DEFI"
+      ],
+      "extensions": {
+        "website": "https://www.trush.io",
+        "twitter": "https://twitter.com/Trush_io?t=w9wC8R4_tjcmWWdDY6DJMQ&s=09",
+        "discord": "https://discord.gg/VMjsEJH8",
+        "medium": "https://medium.com/@Trush.io"
+    }
+      }
